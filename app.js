@@ -48,13 +48,11 @@ form.addEventListener("submit", (e) => {
 
     case "4":
       actressArray = [
-        "sunny",
         "Alia Bhatt",
         "Katrina kaiff",
         "shraddha kapoor",
         "deepika",
         "anushka",
-        "sunny",
         "Kriti Sanon",
         "Shruti Haasan",
         "Angelina",
